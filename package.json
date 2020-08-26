@@ -1,9 +1,11 @@
 {
-  "name": "uib-gh-demo",
+  "name": "banana",
+  "homepage": "https://mhmd85.github.io/banana/",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "deploy":"gh-pages -d src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
